@@ -137,6 +137,11 @@
             android:label="@string/title_texture_from_camera"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
         </activity>
+        <activity
+            android:name="com.android.grafika.AddSecondSurfaceViewActivity"
+            android:label="@string/title_activity_add_second_surface_view"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
     </application>
 
 </manifest>

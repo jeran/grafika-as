@@ -99,6 +99,8 @@
     <string name="tfcZoomLabel">Zoom: </string>
     <string name="tfcSizeLabel">Size: </string>
     <string name="tfcRotateLabel">Rotate: </string>
+    <string name="add_second_surface_view_add">ADD</string>
+    <string name="add_second_surface_view_remove">REMOVE</string>
 
     <!-- for cameraFilter_spinner; match with CameraCaptureActivity constants -->
     <string-array name="cameraFilterNames">
@@ -150,5 +152,6 @@
     <string name="title_color_bar">RGB color bars</string>
     <string name="title_scheduled_swap">Scheduled swap</string>
     <string name="title_texture_from_camera">Texture from camera</string>
+    <string name="title_activity_add_second_surface_view">Add Second Surface View</string>
 
 </resources>

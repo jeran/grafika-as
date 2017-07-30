@@ -109,6 +109,9 @@ public class MainActivity extends ListActivity {
         { "{~ignore} Software input surface",
             "Exercises bug",
             "SoftInputSurfaceActivity" },
+        { "Add Second Suface View",
+                "Supplies a button to add a second surface view to hierarchy",
+                "AddSecondSurfaceViewActivity" },
     };
 
     /**
